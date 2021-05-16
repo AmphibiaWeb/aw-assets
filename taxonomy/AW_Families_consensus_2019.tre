@@ -1,0 +1,322 @@
+#NEXUS
+[written Fri Aug 14 10:14:06 PDT 2020 by Mesquite  version 3.61 (build 927) at Koo-Monster/128.32.146.160]
+
+BEGIN TAXA;
+	TITLE Untitled_Block_of_Taxa;
+	DIMENSIONS NTAX=110;
+	TAXLABELS
+		Allophrynidae Alsodidae 'Alytidae (Alytinae)' Arthroleptidae Ascaphidae Batrachylidae Bombinatoridae Brachycephalidae Brevicipitidae Bufonidae Calyptocephalellidae 'Centrolenidae (Centroleninae)' 'Ceratobatrachidae (Alcalinae)' Ceratophryidae Ceuthomantidae Conrauidae Craugastoridae Cycloramphidae 'Dendrobatidae (Aromobatinae)' 'Dicroglossidae (Dicroglossinae)' 'Eleutherodactylidae (Eleutherodactylinae)' Heleophrynidae Hemiphractidae Hemisotidae 'Hylidae (Hylinae)' Hylodidae Hyperoliidae Leiopelmatidae Leptodactylidae 'Mantellidae (Boophinae)' Megophryidae Micrixalidae 'Microhylidae (Adelastinae)' 'Myobatrachidae (Limnodynastinae)' Nasikabatrachidae Nyctibatrachidae Odontobatrachidae Odontophrynidae Pelobatidae Pelodytidae Petropedetidae Phrynobatrachidae 'Pipidae (Pipinae)' Ptychadenidae 'Pyxicephalidae (Cacosterninae)' Ranidae Ranixalidae 'Rhacophoridae (Buergeriinae)' Rhinodermatidae Rhinophrynidae Scaphiopodidae Sooglossidae 'Strabomantidae (Holoadeninae)' Telmatobiidae Ambystomatidae Amphiumidae Cryptobranchidae Dicamptodontidae 'Hynobiidae (Onychodactylinae)' 'Plethodontidae (Hemidactyliinae)' 'Proteidae (Necturinae)' Rhyacotritonidae 'Salamandridae (Pleurodelinae)' Sirenidae Caeciliidae Chikilidae Dermophiidae Herpelidae Ichthyophiidae Indotyphlidae Rhinatrematidae Scolecomorphidae Siphonopidae Typhlonectidae 'Plethodontidae (Plethodontinae)' 'Hynobiidae (Hynobiinae)' 'Proteidae (Proteinae)' 'Salamandridae (Salamandrinae)' 'Salamandridae (Salamandrininae)' 'Alytidae (Discoglossinae)' 'Centrolenidae (Hyalinobatrachinae)' 'Ceratobatrachidae (Ceratobatrachinae)' 'Ceratobatrachidae (Liuraninae)' 'Dendrobatidae (Dendrobatinae)' 'Dendrobatidae (Colostethinae)' 'Dendrobatidae (Hyloxalinae)' 'Dicroglossidae (Occidozyginae)' 'Eleutherodactylidae (Phyzelaphryninae)' 'Hylidae (Pelodryadinae)' 'Hylidae (Phyllomedusinae)' 'Mantellidae (Laliostominae)' 'Mantellidae (Mantellinae)' 'Microhylidae (Asterophryninae)' 'Microhylidae (Cophylinae)' 'Microhylidae (Dyscophinae)' 'Microhylidae (Gastrophryninae)' 'Microhylidae (Hoplophryninae)' 'Microhylidae (Kalophryninae)' 'Microhylidae (Melanobatrachinae)' 'Microhylidae (Microhylinae)' 'Microhylidae (Otophryninae)' 'Microhylidae (Phrynomerinae)' 'Microhylidae (Scaphiophryninae)' 'Myobatrachidae (Myobatrachinae)' 'Pipidae (Xenopodinae)' 'Pyxicephalidae (Pyxicephalinae)' 'Rhacophoridae (Rhacophorinae)' 'Strabomantidae (Hypodactylinae)' 'Strabomantidae (Pristimantinae)' 'Strabomantidae (Strabomantinae)' 
+	;
+
+END;
+
+
+BEGIN TREES;
+	Title 'Trees from "Amphibian_families_BlackburnSep2018.tre"';
+	ID 0173edf5a43c1;
+	LINK Taxa = Untitled_Block_of_Taxa;
+	TRANSLATE
+[0] 		1 Allophrynidae,
+[1] 		2 Alsodidae,
+[2] 		3 'Alytidae (Alytinae)',
+[3] 		4 Arthroleptidae,
+[4] 		5 Ascaphidae,
+[5] 		6 Batrachylidae,
+[6] 		7 Bombinatoridae,
+[7] 		8 Brachycephalidae,
+[8] 		9 Brevicipitidae,
+[9] 		10 Bufonidae,
+[10] 		11 Calyptocephalellidae,
+[11] 		12 'Centrolenidae (Centroleninae)',
+[12] 		13 'Ceratobatrachidae (Alcalinae)',
+[13] 		14 Ceratophryidae,
+[14] 		15 Ceuthomantidae,
+[15] 		16 Conrauidae,
+[16] 		17 Craugastoridae,
+[17] 		18 Cycloramphidae,
+[18] 		19 'Dendrobatidae (Aromobatinae)',
+[19] 		20 'Dicroglossidae (Dicroglossinae)',
+[20] 		21 'Eleutherodactylidae (Eleutherodactylinae)',
+[21] 		22 Heleophrynidae,
+[22] 		23 Hemiphractidae,
+[23] 		24 Hemisotidae,
+[24] 		25 'Hylidae (Hylinae)',
+[25] 		26 Hylodidae,
+[26] 		27 Hyperoliidae,
+[27] 		28 Leiopelmatidae,
+[28] 		29 Leptodactylidae,
+[29] 		30 'Mantellidae (Boophinae)',
+[30] 		31 Megophryidae,
+[31] 		32 Micrixalidae,
+[32] 		33 'Microhylidae (Adelastinae)',
+[33] 		34 'Myobatrachidae (Limnodynastinae)',
+[34] 		35 Nasikabatrachidae,
+[35] 		36 Nyctibatrachidae,
+[36] 		37 Odontobatrachidae,
+[37] 		38 Odontophrynidae,
+[38] 		39 Pelobatidae,
+[39] 		40 Pelodytidae,
+[40] 		41 Petropedetidae,
+[41] 		42 Phrynobatrachidae,
+[42] 		43 'Pipidae (Pipinae)',
+[43] 		44 Ptychadenidae,
+[44] 		45 'Pyxicephalidae (Cacosterninae)',
+[45] 		46 Ranidae,
+[46] 		47 Ranixalidae,
+[47] 		48 'Rhacophoridae (Buergeriinae)',
+[48] 		49 Rhinodermatidae,
+[49] 		50 Rhinophrynidae,
+[50] 		51 Scaphiopodidae,
+[51] 		52 Sooglossidae,
+[52] 		53 'Strabomantidae (Holoadeninae)',
+[53] 		54 Telmatobiidae,
+[54] 		55 Ambystomatidae,
+[55] 		56 Amphiumidae,
+[56] 		57 Cryptobranchidae,
+[57] 		58 Dicamptodontidae,
+[58] 		59 'Hynobiidae (Onychodactylinae)',
+[59] 		60 'Plethodontidae (Hemidactyliinae)',
+[60] 		61 'Proteidae (Necturinae)',
+[61] 		62 Rhyacotritonidae,
+[62] 		63 'Salamandridae (Pleurodelinae)',
+[63] 		64 Sirenidae,
+[64] 		65 Caeciliidae,
+[65] 		66 Chikilidae,
+[66] 		67 Dermophiidae,
+[67] 		68 Herpelidae,
+[68] 		69 Ichthyophiidae,
+[69] 		70 Indotyphlidae,
+[70] 		71 Rhinatrematidae,
+[71] 		72 Scolecomorphidae,
+[72] 		73 Siphonopidae,
+[73] 		74 Typhlonectidae,
+[74] 		75 'Plethodontidae (Plethodontinae)',
+[75] 		76 'Hynobiidae (Hynobiinae)',
+[76] 		77 'Proteidae (Proteinae)',
+[77] 		78 'Salamandridae (Salamandrinae)',
+[78] 		79 'Salamandridae (Salamandrininae)',
+[79] 		80 'Alytidae (Discoglossinae)',
+[80] 		81 'Centrolenidae (Hyalinobatrachinae)',
+[81] 		82 'Ceratobatrachidae (Ceratobatrachinae)',
+[82] 		83 'Ceratobatrachidae (Liuraninae)',
+[83] 		84 'Dendrobatidae (Dendrobatinae)',
+[84] 		85 'Dendrobatidae (Colostethinae)',
+[85] 		86 'Dendrobatidae (Hyloxalinae)',
+[86] 		87 'Dicroglossidae (Occidozyginae)',
+[87] 		88 'Eleutherodactylidae (Phyzelaphryninae)',
+[88] 		89 'Hylidae (Pelodryadinae)',
+[89] 		90 'Hylidae (Phyllomedusinae)',
+[90] 		91 'Mantellidae (Laliostominae)',
+[91] 		92 'Mantellidae (Mantellinae)',
+[92] 		93 'Microhylidae (Asterophryninae)',
+[93] 		94 'Microhylidae (Cophylinae)',
+[94] 		95 'Microhylidae (Dyscophinae)',
+[95] 		96 'Microhylidae (Gastrophryninae)',
+[96] 		97 'Microhylidae (Hoplophryninae)',
+[97] 		98 'Microhylidae (Kalophryninae)',
+[98] 		99 'Microhylidae (Melanobatrachinae)',
+[99] 		100 'Microhylidae (Microhylinae)',
+[100] 		101 'Microhylidae (Otophryninae)',
+[101] 		102 'Microhylidae (Phrynomerinae)',
+[102] 		103 'Microhylidae (Scaphiophryninae)',
+[103] 		104 'Myobatrachidae (Myobatrachinae)',
+[104] 		105 'Pipidae (Xenopodinae)',
+[105] 		106 'Pyxicephalidae (Pyxicephalinae)',
+[106] 		107 'Rhacophoridae (Rhacophorinae)',
+[107] 		108 'Strabomantidae (Hypodactylinae)',
+[108] 		109 'Strabomantidae (Pristimantinae)',
+[109] 		110 'Strabomantidae (Strabomantinae)';
+	TREE 'Edited, based on Untitled Tree+' = ((71,(69,(72,((66,68),((65,74),(70,(67,73))))))),(((57,(59,76)),(64,(((55,58),(79,(63,78))),((61,77),(62,(56,(60,75))))))),((5,28),((7,(3,80)),((50,(43,105)),((51,(40,(31,39))),(22,(((11,(34,104)),(49,(((2,26),(6,18)),(54,((14,23,(25,(89,90))),(10,(29,38),(1,(12,81)),(19,(86,(84,85))),(15,((21,88),(8,(17,(108,(110,(53,109))))))))))))),((35,52),((33,97,98,99,102,(94,103),(96,101),(93,(95,100))),(((4,27),(9,24)),(((37,(42,44)),((16,41),(45,106))),((32,(36,47)),((83,(13,82)),((20,87),(46,((48,107),(91,(30,92)))))))))))))))))));
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1597425246125;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 1055093597513920083;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 100;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 700 464;
+			setLocation 8 8;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			showTaxa #1055093597513920083 #mesquite.lists.TaxonList.TaxonList;
+			tell It;
+				setTaxa #1055093597513920083;
+				getWindow;
+				tell It;
+					useTargetValue off;
+					setTargetValue ;
+					newAssistant  #mesquite.lists.TaxonListCurrPartition.TaxonListCurrPartition;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 600 392;
+					setLocation 8 8;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+				endTell;
+				showWindow;
+				getEmployee #mesquite.lists.ColorTaxon.ColorTaxon;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.lists.TaxonListAnnotPanel.TaxonListAnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #1055093597513920083  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				suppressEPCResponse;
+				setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+				tell It;
+					setTreeBlock 1;
+					setTreeBlockID 0173edf5a43c1;
+					toggleUseWeights off;
+				endTell;
+				setAssignedID 966.1597425177423.1291260589761984442;
+				getTreeWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 600 392;
+					setLocation 8 8;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					setActive;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareLineTree.SquareLineTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							branchLengthsToggle off;
+							toggleScale on;
+							toggleBroadScale off;
+							toggleCenter on;
+							toggleEven on;
+							setFixedTaxonDistance 0;
+						endTell;
+						setEdgeWidth 4;
+						showEdgeLines on;
+						orientRight;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					showBranchColors on;
+					labelBranchLengths off;
+					centerBrLenLabels on;
+					showBrLensUnspecified on;
+					showBrLenLabelsOnTerminals on;
+					setBrLenLabelColor 0 0 255;
+					setNumBrLenDecimals 6;
+					setSelectedTaxonHighlightMode 1;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setColor Black;
+						setTaxonNameStyler  #mesquite.trees.NoColorForTaxon.NoColorForTaxon;
+						toggleShadePartition off;
+						toggleShowFootnotes on;
+						toggleNodeLabels on;
+						toggleCenterNodeNames off;
+						toggleShowNames on;
+						namesAngle ?;
+					endTell;
+				endTell;
+					setTreeNumber 1;
+					setDrawingSizeMode 0;
+					toggleLegendFloat on;
+					scale 0;
+					toggleTextOnTree off;
+					togglePrintName off;
+					showWindow;
+				endTell;
+				desuppressEPCResponse;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocDoubles.DrawTreeAssocDoubles;
+				tell It;
+					setOn on;
+					toggleShow consensusFrequency;
+					toggleShow bootstrapFrequency;
+					toggleShow posteriorProbability;
+					toggleShow consensusFrequency;
+					toggleShow posteriorProbability;
+					toggleShow bootstrapFrequency;
+					setDigits 4;
+					setThreshold ?;
+					writeAsPercentage off;
+					toggleCentred off;
+					toggleHorizontal on;
+					toggleWhiteEdges on;
+					toggleShowOnTerminals on;
+					setFontSize 10;
+					setOffset 0  0;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocStrings.DrawTreeAssocStrings;
+				tell It;
+					setOn on;
+					toggleCentred on;
+					toggleHorizontal on;
+					setFontSize 10;
+					setOffset 0  0;
+					toggleShowOnTerminals on;
+				endTell;
+				getEmployee #mesquite.trees.TreeInfoValues.TreeInfoValues;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+
